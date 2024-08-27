@@ -1,6 +1,6 @@
-# UX Portfolio
+# Kevin's UX Portfolio
 
-About me...
+I am a computer science professor and...
 
 ## UX Team Project
 
